@@ -1,4 +1,4 @@
-[Slides](montecarlomethods.pdf)
+[Slides: Bayesian computation via Monte Carlo methods](montecarlomethods.pdf)
 
 Examples
 

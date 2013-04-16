@@ -1,7 +1,7 @@
-
 [Slides](montecarlomethods.pdf)
 
 Examples
+
 1. Approximating pi.
 2. Monte Carlo integration.
 3. Monte Carlo integration via importance sampling.
